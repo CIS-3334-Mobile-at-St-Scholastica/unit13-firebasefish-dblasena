@@ -11,6 +11,9 @@ import android.widget.EditText;
 
 import com.google.firebase.database.DatabaseReference;
 
+/**
+ * The user is able to enter the fish infomrmation into tect fields and then add a new fish to the database to be searched later
+ */
 public class AddFishActivity extends AppCompatActivity {
 
     Button buttonSave;

@@ -7,6 +7,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+/**
+ * sends the fish information back to the main activity to be displayed if it is found
+ */
 public class DetailActivity extends AppCompatActivity {
 
     Button buttonBack;
